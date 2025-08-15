@@ -1,0 +1,3 @@
+#iniciar el servidor
+    python manage.py runserver
+#Comprobar si esta instalado django introducir en el navegador la siguiente http://127.0.0.1:8000/
